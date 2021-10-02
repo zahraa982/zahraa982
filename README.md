@@ -6,7 +6,6 @@
 
 
 - 🔭 I’m currently working on react project
-- 💬 Ask me about anything
 - 📫 How to reach me: twitter @whosuorm
 - ⚡ Fun fact: i'm good with css
 
