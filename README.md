@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on react project
+- 🔭 I’m currently working on php project
 - 📫 How to reach me: twitter @whosuorm
 - ⚡ Fun fact: i'm good with css
 
