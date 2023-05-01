@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on php project
+- 🔭 I’m currently Learning more about Angular
 - 📫 How to reach me: twitter @whosuorm
 - ⚡ Fun fact: i'm good with css
 
