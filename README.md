@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently Learning more about Angular
+- 🔭 I’m currently Learning more about .Net & Angular
 - 📫 How to reach me: twitter @whosuorm
 - ⚡ Fun fact: i'm good with css
 
